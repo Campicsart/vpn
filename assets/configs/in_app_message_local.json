@@ -1,0 +1,758 @@
+[
+  {
+    "group_id": 17,
+    "cooldown": 168,
+    "count": 3,
+    "messages":
+    [
+      {
+        "title": "Enjoy online privacy protection🛡️",
+        "desc": "Introduce to your friends if you have a good experience here.",
+        "action_text": "SHARE",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_server",
+        "content_id": 1000001,
+        "priority": 2,
+        "url": "vpnturbo://share"
+      }
+    ]
+  },
+  {
+    "group_id": 14,
+    "cooldown": 168,
+    "count": 0,
+    "messages":
+    [
+      {
+        "title": "90% of users' choices😆",
+        "desc": "The latest version received rave reviews! Why not get it now?",
+        "action_text": "UPDATE",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_server",
+        "content_id": 1000002,
+        "priority": 4,
+        "url": "vpnturbo://market"
+      }
+    ]
+  },
+  {
+    "group_id": 8,
+    "cooldown": 0,
+    "count": 0,
+    "messages":
+    [
+      {
+        "title": "Get a connection speed as fast as Bolt⚡️",
+        "desc": "21,000+ servers are available for you. Just choose according to your needs.",
+        "action_text": "GET",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_server",
+        "content_id": 1000003,
+        "priority": 2,
+        "url": "vpnturbo://appmodule?id=107"
+      }
+    ]
+  },
+  {
+    "group_id": 12,
+    "cooldown": 24,
+    "count": 2,
+    "messages":
+    [
+      {
+        "title": "Bad connection? Check FAQ!",
+        "desc": "Search and follow the instructions on FAQ to solve the problem.",
+        "action_text": "CHECK",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_contact",
+        "content_id": 1000004,
+        "priority": 1,
+        "url": "vpnturbo://appmodule?id=106"
+      }
+    ]
+  },
+  {
+    "group_id": 13,
+    "cooldown": 24,
+    "count": 2,
+    "messages":
+    [
+      {
+        "title": "Bad connection? Contact 24/7 Live Chat!",
+        "desc": "24/7 Real-time Live Chat can solve problems quickly.",
+        "action_text": "CONTACT",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_contact",
+        "content_id": 1000005,
+        "priority": 1,
+        "url": "vpnturbo://appmodule?id=105"
+      }
+    ]
+  },
+  {
+    "group_id": 20,
+    "cooldown": 0,
+    "count": 0,
+    "messages":
+    [
+      {
+        "title": "🎬Try Netflix or Youtube servers?",
+        "desc": "21,000+ servers are available for various streaming and online privacy protection.",
+        "action_text": "TRY NOW",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_rocket",
+        "content_id": 1000006,
+        "priority": 3,
+        "url": "vpnturbo://appmodule?id=107"
+      }
+    ]
+  },
+  {
+    "group_id": 3,
+    "cooldown": 336,
+    "count": 3,
+    "messages":
+    [
+      {
+        "title": "Special offer🎁75% OFF! Only Today!",
+        "desc": "Enjoy 21,000+ servers for streaming and games!",
+        "action_text": "GET IT NOW",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_premium",
+        "content_id": 1000007,
+        "priority": 1,
+        "url": "vpnturbo://appmodule?id=103&template=config9_2"
+      },
+      {
+        "title": "BEST OFFER: 7⃣️5⃣️% OFF only for you!",
+        "desc": "Enjoy 21,000+ servers for streaming and games!",
+        "action_text": "GET IT NOW",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_premium",
+        "content_id": 1000008,
+        "priority": 1,
+        "url": "vpnturbo://appmodule?id=103&template=config9_2"
+      },
+      {
+        "title": "Special offer🎁75% OFF! Only Today!",
+        "desc": "Enjoy online privacy protection and network security!",
+        "action_text": "GET IT NOW",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_premium",
+        "content_id": 1000009,
+        "priority": 1,
+        "url": "vpnturbo://appmodule?id=103&template=config9_2"
+      }
+    ]
+  },
+  {
+    "group_id": 4,
+    "cooldown": 336,
+    "count": 3,
+    "messages":
+    [
+      {
+        "title": "Special offer🎁75% OFF! Only Today!",
+        "desc": "Enjoy 21,000+ servers for streaming and games!",
+        "action_text": "GET IT NOW",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_premium",
+        "content_id": 1000010,
+        "priority": 1,
+        "url": "vpnturbo://appmodule?id=103&template=config9_2"
+      }
+    ]
+  },
+  {
+    "group_id": 5,
+    "cooldown": 1,
+    "count": 0,
+    "messages":
+    [
+      {
+        "title": "Oops!😱You've lost your privileges!",
+        "desc": "Continue to enjoy the unblocked streaming and games by renew your plan.",
+        "action_text": "GO",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_premium",
+        "content_id": 1000011,
+        "priority": 1,
+        "url": "vpnturbo://appmodule?id=103&template=config9"
+      }
+    ]
+  },
+  {
+    "group_id": 9,
+    "cooldown": 24,
+    "count": 0,
+    "messages":
+    [
+      {
+        "title": "Get an ultra-fast and stable speed⚡️",
+        "desc": "Upgrade to enjoy unlimited speed of 21,000+ global servers.",
+        "action_text": "UPGRADE",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_rocket",
+        "content_id": 1000012,
+        "priority": 1,
+        "url": "vpnturbo://appmodule?id=103&template=config0"
+      },
+      {
+        "title": "Want a fast speed of Netfilx or PUBG?🎮",
+        "desc": "Upgrade to enjoy unlimited speed of 21,000+ global servers.",
+        "action_text": "UPGRADE",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_rocket",
+        "content_id": 1000013,
+        "priority": 1,
+        "url": "vpnturbo://appmodule?id=103&template=config0"
+      },
+      {
+        "title": "🎬No limitation of speed!!!",
+        "desc": "Upgrade to enjoy unlimited speed of 21,000+ global servers.",
+        "action_text": "GET IT NOW",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_rocket",
+        "content_id": 1000014,
+        "priority": 1,
+        "url": "vpnturbo://appmodule?id=103&template=config0"
+      }
+    ]
+  },
+  {
+    "group_id": 10,
+    "cooldown": 24,
+    "count": 0,
+    "messages":
+    [
+      {
+        "title": "Netflix, Disney+, BBC❤️Love it!",
+        "desc": "Watch 2021 popular movies and episodes now!",
+        "action_text": "GET IT NOW",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_server",
+        "content_id": 1000015,
+        "priority": 4,
+        "url": "vpnturbo://appmodule?id=103&template=config0"
+      },
+      {
+        "title": "🔥What's the most popular on Youtube?",
+        "desc": "Browse the trending video clips on Youtube and BiliBili!",
+        "action_text": "GET IT NOW",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_server",
+        "content_id": 1000016,
+        "priority": 4,
+        "url": "vpnturbo://appmodule?id=103&template=config0"
+      },
+      {
+        "title": "Gooooooooooal!⚽️⚽️⚽️",
+        "desc": "Watch the latest sport events on ESPN!",
+        "action_text": "GET IT NOW",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_server",
+        "content_id": 1000017,
+        "priority": 4,
+        "url": "vpnturbo://appmodule?id=103&template=config0"
+      },
+      {
+        "title": "WINNER WINNER CHICKEN DINNER!!!",
+        "desc": "Watch the latest sport events on ESPN!",
+        "action_text": "GET IT NOW",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_server",
+        "content_id": 1000018,
+        "priority": 4,
+        "url": "vpnturbo://appmodule?id=103&template=config0"
+      },
+      {
+        "title": "Hackers are aroung you🚨",
+        "desc": "Connect to protect your online privacy!",
+        "action_text": "GET IT NOW",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_server",
+        "content_id": 1000019,
+        "priority": 4,
+        "url": "vpnturbo://appmodule?id=103&template=config0"
+      }
+    ]
+  },
+  {
+    "group_id": 11,
+    "cooldown": 24,
+    "count": 2,
+    "messages":
+    [
+      {
+        "title": "Hackers are aroung you🚨",
+        "desc": "Connect to protect your online privacy!",
+        "action_text": "GET IT NOW",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_server",
+        "content_id": 1000020,
+        "priority": 4,
+        "url": "vpnturbo://appmodule?id=103&template=config0"
+      }
+    ]
+  },
+  {
+    "group_id": 15,
+    "cooldown": 0,
+    "count": 0,
+    "messages":
+    [
+      {
+        "title": "🎁Best offer for you has arrived!",
+        "desc": "Enjoy 21,000+ servers for stream your favorite content with no boundary and online privacy protection.",
+        "action_text": "GET IT NOW",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_premium",
+        "content_id": 1000021,
+        "priority": 1,
+        "url": "vpnturbo://appmodule?id=103&template=config5"
+      }
+    ]
+  },
+  {
+    "group_id": 16,
+    "cooldown": 24,
+    "count": 3,
+    "messages":
+    [
+      {
+        "title": "🎁Special offer - 75% OFF, only for you today!",
+        "desc": "Get online privacy protection by taking the special offer.",
+        "action_text": "GET IT NOW",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_premium",
+        "content_id": 1000022,
+        "priority": 2,
+        "url": "vpnturbo://appmodule?id=103&template=config9_2"
+      }
+    ]
+  },
+  {
+    "group_id": 30,
+    "cooldown": 24,
+    "count": 1,
+    "messages":
+    [
+      {
+        "title": "Up to 80% OFF per month!",
+        "desc": "The lowest price only for you! Get it and connect with limits!🌍",
+        "action_text": "GET IT NOW",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_premium",
+        "content_id": 1000023,
+        "priority": 4,
+        "url": "vpnturbo://appmodule?id=103&template=config10"
+      }
+    ]
+  },
+  {
+    "group_id": 31,
+    "cooldown": 24,
+    "count": 1,
+    "messages":
+    [
+      {
+        "title": "Only 4.99 USD/month!",
+        "desc": "Watch the lastest movies and episodes on Netfilx now!",
+        "action_text": "GET IT NOW",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_premium",
+        "content_id": 1000024,
+        "priority": 3,
+        "url": "vpnturbo://appmodule?id=103&template=config9_3"
+      }
+    ]
+  },
+  {
+    "group_id": 32,
+    "cooldown": 24,
+    "count": 1,
+    "messages":
+    [
+      {
+        "title": "Lucky! You've won a gift🎁!",
+        "desc": "Enjoy 21,000+ servers for streaming and games!🎮",
+        "action_text": "GET IT NOW",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_premium",
+        "content_id": 1000025,
+        "priority": 1,
+        "url": "vpnturbo://appmodule?id=103&template=config5"
+      }
+    ]
+  },
+  {
+    "group_id": 43,
+    "cooldown": 24,
+    "count": 2,
+    "messages":
+    [
+      {
+        "title":"Too expensive? Try the Standard Plan!",
+        "desc":"Standard Plan only costs 1.99 USD/month. Try now!🏃‍♀️",
+        "action_text":"HAVE A TRY",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_premium",
+        "content_id": 1000026,
+        "priority": 1,
+        "url": "vpnturbo://appmodule?id=103&template=config11_2"
+      }
+    ]
+  },
+  {
+    "group_id": 6,
+    "cooldown": 0,
+    "count": 0,
+    "messages":
+    [
+      {
+        "title": "🎉A lucky bonus for you!",
+        "desc": "Only 2.99 USD/month! You can enjoy Netflix & Youtube with a safe and ultra-fast connection.",
+        "action_text": "GET IT NOW",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_premium",
+        "content_id": 1000027,
+        "priority": 2,
+        "url": "vpnturbo://appmodule?id=103&template=config9_2"
+      }
+    ]
+  },
+  {
+    "group_id": 7,
+    "cooldown": 1,
+    "count": 2,
+    "messages":
+    [
+      {
+        "title": "⚠️Errors of Your Premium Renewal",
+        "desc": "Renew your Premuim Plan now and continue to use unlimited services.",
+        "action_text": "RENEW",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_premium",
+        "content_id": 1000028,
+        "priority": 1,
+        "url": "vpnturbo://appmodule?id=103&template=config9"
+      }
+    ]
+  },
+  {
+    "group_id": 19,
+    "cooldown": 0,
+    "count": 0,
+    "messages":
+    [
+      {
+        "title": "Any question? Contact 24/7 Live Chat!",
+        "desc": "24/7 Real-time Live Chat can solve problems quickly.",
+        "action_text": "CONTACT",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_contact",
+        "content_id": 1000029,
+        "priority": 2,
+        "url": "vpnturbo://appmodule?id=105"
+      }
+    ]
+  },
+  {
+    "group_id": 21,
+    "cooldown": 0,
+    "count": 0,
+    "messages":
+    [
+      {
+        "title": "🎁Special offer - 30% OFF, only for you today!",
+        "desc": "Enjoy 21,000+ servers for streaming and online privacy protection by taking the special offer.",
+        "action_text": "GET IT NOW",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_premium",
+        "content_id": 1000030,
+        "priority": 2,
+        "url": "vpnturbo://appmodule?id=103&template=config9_2"
+      }
+    ]
+  },
+  {
+    "group_id": 22,
+    "cooldown": 1,
+    "count": 0,
+    "messages":
+    [
+      {
+        "title": "Oops!😱You will lose your privileges in 1 day!",
+        "desc": "Renew your plan to continue your worldwide discovery🌍.",
+        "action_text": "RENEW",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_premium",
+        "content_id": 1000031,
+        "priority": 1,
+        "url": "vpnturbo://appmodule?id=103&template=config9"
+      }
+    ]
+  },
+  {
+    "group_id": 23,
+    "cooldown": 1,
+    "count": 0,
+    "messages":
+    [
+      {
+        "title": "Oops!😱You will lose your privileges in 3 day!",
+        "desc": "Renew your plan to continue your worldwide discovery🌍.",
+        "action_text": "RENEW",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_premium",
+        "content_id": 1000032,
+        "priority": 1,
+        "url": "vpnturbo://appmodule?id=103&template=config9"
+      }
+    ]
+  },
+  {
+    "group_id": 24,
+    "cooldown": 1,
+    "count": 0,
+    "messages":
+    [
+      {
+        "title": "Oops!😱You will lose your privileges in 2 day!",
+        "desc": "Renew your plan to continue your worldwide discovery🌍.",
+        "action_text": "RENEW",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_premium",
+        "content_id": 1000033,
+        "priority": 1,
+        "url": "vpnturbo://appmodule?id=103&template=config9"
+      }
+    ]
+  },
+  {
+    "group_id": 25,
+    "cooldown": 1,
+    "count": 0,
+    "messages":
+    [
+      {
+        "title": "Oops!😱You will lose your privileges in 3 day!",
+        "desc": "Renew your plan to continue your worldwide discovery🌍.",
+        "action_text": "RENEW",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_premium",
+        "content_id": 1000034,
+        "priority": 1,
+        "url": "vpnturbo://appmodule?id=103&template=config9"
+      }
+    ]
+  },
+  {
+    "group_id": 33,
+    "cooldown": 24,
+    "count": 2,
+    "messages":
+    [
+      {
+        "title": "Up to 80% OFF per month!",
+        "desc": "The lowest price only for you! Get it and connect with limits!🌍",
+        "action_text": "GET IT NOW",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_premium",
+        "content_id": 1000035,
+        "priority": 3,
+        "url": "vpnturbo://appmodule?id=103&template=config10"
+      }
+    ]
+  },
+  {
+    "group_id": 34,
+    "cooldown": 24,
+    "count": 2,
+    "messages":
+    [
+      {
+        "title": "Like Netfilx or Youtube?",
+        "desc": "Try the streaming servers to catch up with the latest videos!🎬",
+        "action_text": "CHECK",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_rocket",
+        "content_id": 1000036,
+        "priority": 3,
+        "url": "vpnturbo://appmodule?id=102"
+      }
+    ]
+  },
+  {
+    "group_id": 35,
+    "cooldown": 0,
+    "count": 1,
+    "messages":
+    [
+      {
+        "title": "Any question? Contact 24/7 Live Chat!",
+        "desc": "24/7 Real-time Live Chat can solve problems quickly.",
+        "action_text": "CONTACT",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_contact",
+        "content_id": 1000037,
+        "priority": 2,
+        "url": "vpnturbo://appmodule?id=105"
+      }
+    ]
+  },
+  {
+    "group_id": 46,
+    "cooldown": 24,
+    "count": 1,
+    "messages":
+    [
+      {
+        "title": "Want to add more devices?",
+        "desc": "Upgrade to Gold to add up to 5 devices!",
+        "action_text": "UPGRADE",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_premium",
+        "content_id": 1000040,
+        "priority": 2,
+        "url": "vpnturbo://appmodule?id=103&template=config9_4"
+      }
+    ]
+  },
+  {
+    "group_id": 47,
+    "cooldown": 24,
+    "count": 1,
+    "messages":
+    [
+      {
+        "title": "Want to add more devices?",
+        "desc": "Upgrade to Gold to add up to 5 devices!",
+        "action_text": "UPGRADE",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_premium",
+        "content_id": 1000041,
+        "priority": 2,
+        "url": "vpnturbo://appmodule?id=103&template=config9_4"
+      }
+    ]
+  },
+  {
+    "group_id": 48,
+    "cooldown": 24,
+    "count": 1,
+    "messages":
+    [
+      {
+        "title": "Want to add more devices?",
+        "desc": "Upgrade to Platinum to add up to 10 devices!",
+        "action_text": "UPGRADE",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_premium",
+        "content_id": 1000042,
+        "priority": 2,
+        "url": "vpnturbo://appmodule?id=103&template=config9_5"
+      }
+    ]
+  },
+  {
+    "group_id": 49,
+    "cooldown": 24,
+    "count": 1,
+    "messages":
+    [
+      {
+        "title": "Want to add more devices?",
+        "desc": "Upgrade to Platinum to add up to 10 devices!",
+        "action_text": "UPGRADE",
+        "title_color": "#5f2f13",
+        "desc_color": "#333333",
+        "action_color": "#fa7a48",
+        "image": "message_img_premium",
+        "content_id": 1000043,
+        "priority": 2,
+        "url": "vpnturbo://appmodule?id=103&template=config9_5"
+      }
+    ]
+  }
+]

@@ -1,0 +1,233 @@
+{
+  "DEFAULT": {
+    "server": [
+      "https://165.227.84.24/",
+      "https://82.196.11.218/",
+      "https://178.128.108.176/",
+      "https://178.128.56.146/",
+      "https://47.52.110.249/",
+      "https://8.210.234.226/",
+      "https://47.56.189.176/",
+      "https://8.210.215.73/",
+      "https://47.242.226.30/",
+      "https://188.166.252.170/",
+      "https://47.52.206.93/",
+      "https://47.89.18.133/"
+    ]
+  },
+  "AE": {
+    "server": [
+      "https://8.210.234.226/",
+      "https://8.210.215.73/",
+      "https://104.co.global.prod.fastly.net/",
+      "https://d8ou8y123d5vy.cloudfront.net/",
+      "https://d3vo8ia181ei2.cloudfront.net/"
+    ]
+  },
+  "ID": {
+    "server": [
+      "https://188.166.230.98/",
+      "https://139.59.216.63/",
+      "https://209.97.163.171/",
+      "https://139.59.231.2/",
+      "https://139.59.239.35/",
+      "https://128.199.212.72/",
+      "https://139.59.235.254/",
+      "https://178.128.99.66/"
+    ]
+  },
+  "IN": {
+    "server": [
+      "https://128.199.212.72/",
+      "https://128.199.204.166/",
+      "https://128.199.244.187/",
+      "https://188.166.230.98/",
+      "https://139.59.216.63/",
+      "https://178.128.99.66/",
+      "https://139.59.239.35/",
+      "https://128.199.141.233/",
+      "https://104.flashput.net/",
+      "https://104.fastwalk.net/",
+      "https://d8ou8y123d5vy.cloudfront.net/",
+      "https://d3vo8ia181ei2.cloudfront.net/",
+      "https://104.co.global.prod.fastly.net/"
+    ]
+  },
+  "IR": {
+    "server": [
+      "https://8.210.133.83/",
+      "https://8.210.234.226/",
+      "https://8.210.215.73/",
+      "https://d8ou8y123d5vy.cloudfront.net/"
+    ]
+  },
+  "QA": {
+    "server": [
+      "https://d8ou8y123d5vy.cloudfront.net/",
+      "https://d3vo8ia181ei2.cloudfront.net/",
+      "https://104.co.global.prod.fastly.net/"
+    ]
+  },
+  "SA": {
+    "server": [
+      "https://d8ou8y123d5vy.cloudfront.net/",
+      "https://d3vo8ia181ei2.cloudfront.net/",
+      "https://104.co.global.prod.fastly.net/",
+      "https://82.196.15.22/",
+      "https://128.199.169.46/",
+      "https://128.199.204.166/",
+      "https://47.52.206.93/",
+      "https://47.89.18.133/",
+      "https://192.241.154.234/",
+      "https://8.210.215.73/"
+    ]
+  },
+  "TR": {
+    "server": [
+      "https://104.co.global.prod.fastly.net/",
+      "https://d8ou8y123d5vy.cloudfront.net/",
+      "https://d3vo8ia181ei2.cloudfront.net/",
+      "https://104.fastputon.net/"
+    ]
+  },
+  "UA": {
+    "server": [
+      "https://188.166.230.98/",
+      "https://192.241.154.234/",
+      "https://128.199.141.233/",
+      "https://178.128.99.66/",
+      "https://188.166.252.170/"
+    ]
+  },
+  "YE": {
+    "server": [
+      "https://104.co.global.prod.fastly.net/",
+      "https://interconnturboapi.cachefly.net/",
+      "https://d8ou8y123d5vy.cloudfront.net/"
+    ]
+  },
+  "EG": {
+    "server": [
+      "https://d8ou8y123d5vy.cloudfront.net/",
+      "https://d3vo8ia181ei2.cloudfront.net/",
+      "https://104.co.global.prod.fastly.net/"
+    ]
+  },
+  "TZ": {
+    "server": [
+      "https://d8ou8y123d5vy.cloudfront.net/",
+      "https://d3vo8ia181ei2.cloudfront.net/",
+      "https://104.co.global.prod.fastly.net/"
+    ]
+  },
+  "MM": {
+    "server": [
+      "https://d8ou8y123d5vy.cloudfront.net/",
+      "https://d3vo8ia181ei2.cloudfront.net/",
+      "https://104.fastputon.net/"
+    ]
+  },
+  "US": {
+    "server": [
+      "https://d8ou8y123d5vy.cloudfront.net/",
+      "https://d3vo8ia181ei2.cloudfront.net/",
+      "https://104.co.global.prod.fastly.net/",
+      "https://165.227.84.24/",
+      "https://82.196.11.218/",
+      "https://178.128.108.176/",
+      "https://178.128.56.146/",
+      "https://8.210.234.226/",
+      "https://47.56.189.176/",
+      "https://8.210.215.73/",
+      "https://188.166.252.170/",
+      "https://47.52.206.93/"
+    ]
+  },
+  "MY": {
+    "server": [
+      "https://d8ou8y123d5vy.cloudfront.net/",
+      "https://d3vo8ia181ei2.cloudfront.net/",
+      "https://104.co.global.prod.fastly.net/",
+      "https://178.128.108.176/",
+      "https://8.210.234.226/",
+      "https://47.56.189.176/",
+      "https://8.210.215.73/",
+      "https://47.52.206.93/"
+    ]
+  },
+  "PH": {
+    "server": [
+      "82.196.11.218",
+      "178.128.108.176",
+      "47.52.206.93",
+      "47.52.110.249",
+      "47.89.18.133",
+      "https://d8ou8y123d5vy.cloudfront.net/",
+      "https://d3vo8ia181ei2.cloudfront.net/",
+      "https://104.co.global.prod.fastly.net/"
+    ]
+  },
+  "MX": {
+    "server": [
+      "https://d8ou8y123d5vy.cloudfront.net/",
+      "https://d3vo8ia181ei2.cloudfront.net/",
+      "https://104.co.global.prod.fastly.net/"
+    ]
+  },
+  "KR": {
+    "server": [
+      "https://d8ou8y123d5vy.cloudfront.net/",
+      "https://d3vo8ia181ei2.cloudfront.net/",
+      "https://104.co.global.prod.fastly.net/"
+    ]
+  },
+  "GB": {
+    "server": [
+      "https://d8ou8y123d5vy.cloudfront.net/",
+      "https://d3vo8ia181ei2.cloudfront.net/",
+      "https://104.co.global.prod.fastly.net/"
+    ]
+  },
+  "ES": {
+    "server": [
+      "https://d8ou8y123d5vy.cloudfront.net/",
+      "https://d3vo8ia181ei2.cloudfront.net/",
+      "https://104.co.global.prod.fastly.net/"
+    ]
+  },
+  "UZ": {
+    "server": [
+      "https://d8ou8y123d5vy.cloudfront.net/",
+      "https://d3vo8ia181ei2.cloudfront.net/",
+      "https://104.co.global.prod.fastly.net/"
+    ]
+  },
+  "SD": {
+    "server": [
+      "https://d8ou8y123d5vy.cloudfront.net/",
+      "https://d3vo8ia181ei2.cloudfront.net/",
+      "https://104.co.global.prod.fastly.net/"
+    ]
+  },
+  "JO": {
+    "server": [
+      "https://d8ou8y123d5vy.cloudfront.net/",
+      "https://d3vo8ia181ei2.cloudfront.net/",
+      "https://104.co.global.prod.fastly.net/"
+    ]
+  },
+  "AZ": {
+    "server": [
+      "https://d8ou8y123d5vy.cloudfront.net/",
+      "https://d3vo8ia181ei2.cloudfront.net/",
+      "https://104.co.global.prod.fastly.net/"
+    ]
+  },
+  "KZ": {
+    "server": [
+      "https://d8ou8y123d5vy.cloudfront.net/",
+      "https://d3vo8ia181ei2.cloudfront.net/",
+      "https://104.co.global.prod.fastly.net/"
+    ]
+  }
+}

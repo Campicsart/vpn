@@ -1,0 +1,82 @@
+{
+  "level": 30,
+  "max_bind_count": 10,
+  "condition": {
+    "or_free_plt": {
+      "organic": true,
+      "user_status": "0,1,2",
+      "plan": "dflt_plan=100%"
+    },
+    "non_free_plt": {
+      "organic": false,
+      "user_status": "0,1,2",
+      "plan": "dflt_plan=100%"
+    },
+    "or_upgrade_plt": {
+      "upgrade": true,
+      "organic": true,
+      "user_status": "0,1,2",
+      "plan": "dflt_plan_upgrade=100%"
+    },
+    "non_upgrade_plt": {
+      "upgrade": true,
+      "organic": false,
+      "user_status": "0,1,2",
+      "plan": "dflt_plan_upgrade=100%"
+    },
+    "or_cancel_plt": {
+      "cancelled": true,
+      "organic": true,
+      "user_status": "0,1,2",
+      "plan": "dflt_plan_cancel=100%"
+    },
+    "non_cancel_plt": {
+      "cancelled": true,
+      "organic": false,
+      "user_status": "0,1,2",
+      "plan": "dflt_plan_cancel=100%"
+    }
+  },
+  "plan": {
+    "dflt_plan": {
+      "menu": {
+        "template": 0,
+        "config": "config0_2",
+        "total_count": -1,
+        "is_default": true
+      },
+      "device_maximum": {
+        "template": 9,
+        "config": "config9_5",
+        "total_count": 1
+      },
+      "unbind": {
+        "template": 9,
+        "config": "config9_5"
+      }
+    },
+    "dflt_plan_upgrade": {
+      "menu": {
+        "template": 8,
+        "config": "config8",
+        "is_default": true
+      },
+      "device_maximum": {
+        "template": 9,
+        "config": "config9_5",
+        "total_count": 1
+      },
+      "unbind": {
+        "template": 9,
+        "config": "config9_5"
+      }
+    },
+    "dflt_plan_cancel": {
+      "menu": {
+        "template": 9,
+        "config": "config9_5",
+        "is_default": true
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "banner_launch":
+  [
+    {
+      "id": "ca-app-pub-6887521785290583/2317079254",
+      "type": "banner_admob",
+      "delay_load_millis": 1000,
+      "priority": "1",
+      "desc": "banner_admob:splash_all"
+    },
+    {
+      "id": "ca-app-pub-6887521785290583/2100584691",
+      "type": "banner_admob",
+      "delay_load_millis": 1000,
+      "priority": "2",
+      "desc": "banner_admob:nonfloor_all"
+    }
+  ],
+  "banner_return":
+  [
+    {
+      "id": "ca-app-pub-6887521785290583/7377834249",
+      "type": "banner_admob",
+      "delay_load_millis": 1000,
+      "priority": "1",
+      "desc": "banner_admob:returnapp_all"
+    },
+    {
+      "id": "ca-app-pub-6887521785290583/2100584691",
+      "type": "banner_admob",
+      "delay_load_millis": 1000,
+      "priority": "2",
+      "desc": "banner_admob:nonfloor_all"
+    }
+  ],
+  "banner_connected_inner":
+  [
+    {
+      "id": "ca-app-pub-6887521785290583/4951732796",
+      "type": "banner_admob",
+      "delay_load_millis": 1000,
+      "priority": "1",
+      "desc": "banner_admob:connect_inner_floor1"
+    },
+    {
+      "id": "ca-app-pub-6887521785290583/5910958227",
+      "type": "banner_admob",
+      "delay_load_millis": 1000,
+      "priority": "2",
+      "desc": "banner_admob:connect_inner_floor2"
+    },
+    {
+      "id": "ca-app-pub-6887521785290583/1755935266",
+      "type": "banner_admob",
+      "delay_load_millis": 1000,
+      "priority": "3",
+      "desc": "banner_admob:connect_inner_nonfloor"
+    }
+  ],
+  "banner_server":
+  [
+    {
+      "id": "ca-app-pub-6887521785290583/7377834249",
+      "type": "banner_admob",
+      "priority": "1",
+      "desc": "banner_admob:returnapp_all"
+    },
+    {
+      "id": "ca-app-pub-6887521785290583/2100584691",
+      "type": "banner_admob",
+      "priority": "2",
+      "desc": "banner_admob:nonfloor_all"
+    }
+  ]
+}

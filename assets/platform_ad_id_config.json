@@ -1,0 +1,160 @@
+{
+  "id_config":
+  {
+    "full_vungle_1":
+    {
+      "type": "full_vungle",
+      "id": "FULL_VUNGLE_ALL_0412-1435081",
+      "desc": "full_vungle:all_0412"
+    },
+    "full_unity_1":
+    {
+      "type": "full_unity",
+      "id": "full_unity_floor2",
+      "desc": "full_unity:full_unity_floor2"
+    },
+    "full_home_1":
+    {
+      "type": "full_home",
+      "id": "full_home_ad_id",
+      "desc": "full_home:full_home_ad"
+    },
+    "native_admob_1":
+    {
+      "type": "native_admob",
+      "id": "ca-app-pub-6887521785290583/3562658418",
+      "desc": "native_admob:disconnect_all",
+      "expired_time": 60
+    },
+    "native_adx_1":
+    {
+      "type": "native_adx",
+      "id": "/21925273764/turbodisconnected:adx_native_floor_test",
+      "desc": "native_adx:disconnect_floor_0508",
+      "ip_sensitive": true,
+      "error_reload": 1,
+      "expired_time": 60
+    },
+    "native_adx_2":
+    {
+      "type": "native_adx",
+      "id": "/21925273764/turbodisconeected:adx_native_test",
+      "desc": "native_adx:disconnect_0508",
+      "ip_sensitive": true,
+      "error_reload": 1,
+      "expired_time": 60
+    },
+    "full_admob_1":
+    {
+      "type": "full_admob",
+      "id": "ca-app-pub-6887521785290583/7502592754",
+      "fresh_id": "ca-app-pub-6887521785290583/6206214535",
+      "desc": "full_admob:connect_all_floor1",
+      "error_reload": 1,
+      "expired_time": 60
+    },
+    "full_admob_2":
+    {
+      "type": "full_admob",
+      "id": "ca-app-pub-6887521785290583/8010550489",
+      "fresh_id": "ca-app-pub-6887521785290583/3923788205",
+      "desc": "full_admob:floor2_all_1126",
+      "error_reload": 1,
+      "expired_time": 60
+    },
+    "full_admob_3":
+    {
+      "type": "full_admob",
+      "id": "ca-app-pub-6887521785290583/4091293257",
+      "fresh_id": "ca-app-pub-6887521785290583/4071305471",
+      "desc": "full_admob:nonfloor_all_1126",
+      "error_reload": 1,
+      "expired_time": 60
+    },
+    "full_admob_4":
+    {
+      "type": "full_admob",
+      "id": "ca-app-pub-6887521785290583/8137348110",
+      "fresh_id": "ca-app-pub-6887521785290583/4126846105",
+      "desc": "full_admob:return_app_floor1_all",
+      "error_reload": 1,
+      "expired_time": 60
+    },
+    "full_admob_5":
+    {
+      "type": "full_admob",
+      "id": "ca-app-pub-6887521785290583/3174479598",
+      "fresh_id": "ca-app-pub-6887521785290583/7322781620",
+      "desc": "full_admob:return_app_floor2_all_1210",
+      "error_reload": 1,
+      "expired_time": 60
+    },
+    "full_admob_6":
+    {
+      "type": "full_admob",
+      "id": "ca-app-pub-6887521785290583/3114769849",
+      "fresh_id": "ca-app-pub-6887521785290583/8426806272",
+      "desc": "full_admob:return_app_nonfloor_all_1210",
+      "error_reload": 1,
+      "expired_time": 60
+    },
+    "full_admob_7":
+    {
+      "type": "full_admob",
+      "id": "ca-app-pub-6887521785290583/5349093086",
+      "fresh_id": "ca-app-pub-6887521785290583/5349093086",
+      "desc": "full_admob:go_server_list_all",
+      "error_reload": 1,
+      "expired_time": 60
+    },
+    "full_admob_8":
+    {
+      "type": "full_admob",
+      "id": "ca-app-pub-6887521785290583/5327444140",
+      "fresh_id": "ca-app-pub-6887521785290583/3822790780",
+      "desc": "full_admob:return_app_topfloor_all",
+      "error_reload": 1,
+      "expired_time": 60
+    },
+    "full_adx_1":
+    {
+      "type": "full_adx",
+      "id": "/21925273764/turboconnected:adx_full",
+      "desc": "full_adx:connected_0508",
+      "ip_sensitive": true,
+      "error_reload": 1,
+      "expired_time": 60
+    },
+    "full_adx_2":
+    {
+      "type": "full_adx",
+      "id": "/21925273764/turboreturnfulladxfloor",
+      "desc": "full_adx:returnapp_floor_0508",
+      "ip_sensitive": true,
+      "error_reload": 1,
+      "expired_time": 60
+    },
+    "reward_video_admob_1":
+    {
+      "type": "reward_video_admob",
+      "id": "ca-app-pub-6887521785290583/4570023257",
+      "desc": "reward_video_admob:all",
+      "auto_reload": true,
+      "error_reload": 1
+    },
+    "reward_interstitial_admob_1":
+    {
+      "type": "reward_interstitial_admob",
+      "id": "ca-app-pub-6887521785290583/8394907563",
+      "desc": "reward_interstitial_admob:all",
+      "auto_reload": true,
+      "error_reload": 1
+    },
+    "open_admob_1":
+    {
+      "type": "open_admob",
+      "id": "ca-app-pub-6887521785290583/8899435210",
+      "desc": "open_admob:open_ad_all"
+    }
+  }
+}
